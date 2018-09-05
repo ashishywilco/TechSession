@@ -2,4 +2,8 @@ Hello , we are into session
 second line enter for session
  third line for session
  fourth line from the Remote
+<<<<<<< HEAD
 Fifth line from local
+=======
+ Sixth Line from the Remote
+>>>>>>> 0a2ee443a9b921ac5c0a84be8032c4d977197aed
